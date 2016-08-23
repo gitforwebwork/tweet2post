@@ -1,0 +1,21 @@
+ul.tw2po-widget-list {
+	margin:0!important;
+	padding: 10px 0 5px 0!important;
+}
+li.tw2po-widget-item {
+	list-style:none!important;
+	margin:0!important;
+	padding:5px 0!important;
+	border-top:1px dashed #DDD!important;
+}
+li.tw2po-widget-item div {
+	margin:5px 0!important;
+	border-left:2px solid #5BC0DE!important;
+	padding-left:6px!important;
+}
+li.tw2po-widget-item.last {
+	border-bottom:0!important;
+	padding-bottom:0!important;
+	border-top:1px dashed #DDD!important;
+	border-bottom:1px dashed #DDD!important;
+}
